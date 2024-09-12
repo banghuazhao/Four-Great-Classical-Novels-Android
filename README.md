@@ -1,4 +1,4 @@
-# Four Great Classical Novels - Android Reader App
+# Four Great Classical Novels (四大名著) - Android Reader App
 
 This app offers a free reading experience of the four great classical Chinese novels: **Romance of the Three Kingdoms (三国演义)**, **Water Margin (水浒传)**, **Journey to the West (西游记)**, and **Dream of the Red Chamber (红楼梦)**. Begin your exploration of classical Chinese literature through these timeless novels.
 
