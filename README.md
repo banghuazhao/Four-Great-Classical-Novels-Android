@@ -2,6 +2,8 @@
 
 This app offers a free reading experience of the four great classical Chinese novels: **Romance of the Three Kingdoms (三国演义)**, **Water Margin (水浒传)**, **Journey to the West (西游记)**, and **Dream of the Red Chamber (红楼梦)**. Begin your exploration of classical Chinese literature through these timeless novels.
 
+[Download the app on Google Play](https://play.google.com/store/apps/details?id=com.appsbay.fourgreatclassicalnovels)
+
 ## Features
 
 1. **Bookmarking**: Save your reading progress at any time, allowing you to resume where you left off.
